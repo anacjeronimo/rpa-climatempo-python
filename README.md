@@ -66,7 +66,7 @@ Você também pode:
 | São Paulo | 24ºC        | Sol com nuvens |
 
 ## 🤖 Sobre
-Este projeto é ideal para iniciantes que desejam aprender automação com Python e aplicar conceitos de **RPA** em tareas reais.
+Este projeto é ideal para iniciantes que desejam aprender automação com Python e aplicar conceitos de **RPA** em tarefas reais.
 ## ✏️ Autor
 
 Desenvolvido por [Ana Carolina Jerônimo](https://github.com/anacjeronimo) 🦇
